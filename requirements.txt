@@ -1,0 +1,2 @@
+# Deliberatly vulnerable libraries
+langchain==0.0.279
